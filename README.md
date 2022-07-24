@@ -1,4 +1,4 @@
-### Hey!, I'm Kavin Adarsh 👋🏼
+### Hey, I'm Kavin Adarsh 👋🏼
 
 I am a B.Tech CSE student at Dayanana Sagar University in Bangalore, India.
 
