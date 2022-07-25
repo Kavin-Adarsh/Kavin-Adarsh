@@ -1,6 +1,6 @@
 <h3 align="center">Hey, I'm <a href="">Kavin Adarsh</a> - Hacker - Gamer - Creator<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
-‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+Serif&size=25&color=CC313DB3&lines=Developer+with+prior+experience..;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+Ethical+Hacker...;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+Data+Scientist..;%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+%E2%80%8E+Full-Stack+Web+Developer)](https://git.io/typing-svg)
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+Serif&size=25&color=CC313DB3&lines=Hacker+-+Gamer+-+Creator+-+Web3;Developer+with+prior+experience..;Data+Science+and+Full+Stack+Web)](https://git.io/typing-svg)
 
 
 I am a B.Tech CSE (Computer Science and Engineering) student at Dayanana Sagar University in Bangalore, India. I'm also a content creator that enjoys playing video games, coding, and hacking.
