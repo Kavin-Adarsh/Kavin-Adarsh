@@ -1,4 +1,4 @@
-<h3 align="center">Hey, I'm <a href="">Kavin Adarsh</a> - Hacker - Gamer - Creator<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h3 align="center">Hey, I'm <a href="">Kavin Adarsh</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 
 I am a B.Tech CSE (Computer Science and Engineering) student at Dayanana Sagar University in Bangalore, India. I'm also a content creator that enjoys playing video games, coding, and hacking.
