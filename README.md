@@ -65,5 +65,4 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-<img src="https://i.gifer.com/3HeZ.gif">
 
