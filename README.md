@@ -7,7 +7,7 @@
 <br><br><br>
 
 
-<h1 align="center" >My favorite stuffs</h1>
+<h1 align="center" >My Skills</h1>
 
 <h3 align="center">Programming and markup languages</h3>
 
